@@ -1,0 +1,12 @@
+{
+  "name": "zemstark",
+  "version": "1.6.1",
+  "description": "Ingliz tili va IELTS uchun sinf xonasi: autoproctor, HTML vazifalar, Telegram bildirishnomalari",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.5"
+  }
+}

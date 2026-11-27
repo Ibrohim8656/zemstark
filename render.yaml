@@ -1,0 +1,34 @@
+# Render.com Blueprint — bepul joylash (vaqtinchalik).
+# Ma'lumotlar Turso bazasida saqlanadi, chunki Render'ning bepul serverida disk har qayta ishga tushganda tozalanadi.
+# Batafsil: BEPUL-JOYLASH.md
+services:
+  - type: web
+    name: zemstark
+    runtime: node
+    plan: free
+    region: frankfurt
+    buildCommand: echo "Qo'shimcha kutubxona kerak emas"
+    startCommand: node server.js
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: STORE
+        value: libsql
+      - key: DATA_DIR
+        value: /tmp/zemstark
+      - key: LIBSQL_URL
+        sync: false
+      - key: LIBSQL_TOKEN
+        sync: false
+      - key: TEACHER_CODE
+        generateValue: true
+      - key: PROCTOR_CAMERA
+        value: "off"
+      - key: TZ_NAME
+        value: Asia/Tashkent
+      - key: TELEGRAM_BOT_TOKEN
+        sync: false
+      - key: AI_KEY
+        sync: false

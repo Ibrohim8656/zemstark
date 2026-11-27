@@ -1,0 +1,378 @@
+{
+ "zemstark": 1,
+ "source": "Practice_Listening_3.html",
+ "works": [
+  {
+   "title": "IELTS Listening Practice 3",
+   "topic": "IELTS Listening",
+   "kind": "ielts",
+   "skill": "listening",
+   "desc": "IELTS Listening mashqi: 4 ta Part, 40 ta savol.\nHar bir Part boshidagi “Audioni boshlash” tugmasini bosing — audio faqat bir marta eshittiriladi.\nJavoblarni yozishda imloga e’tibor bering: har bir bo‘sh joyga talab qilingan miqdordagi so‘z yoki raqam yoziladi.",
+   "timeLimit": 60,
+   "audioOnce": true,
+   "proctor": true,
+   "showAnswers": true,
+   "draft": false,
+   "questions": [
+    {
+     "type": "section",
+     "text": "Part 1\n\nListen and answer questions 1–10.\n\nQuestions 1-10 Complete the notes below.\n\nWrite ONE WORD AND/OR A NUMBER for each answer.\n\nINCIDENT REPORT\n\nExample\n\nName: Anna Lumley",
+     "passage": "",
+     "audioUrl": "https://ieltstrainingonline.com/wp-content/uploads/2021/07/2019-IELTS-Listening-Actual-Test-05-Section1.mp3?_=1"
+    },
+    {
+     "type": "short",
+     "text": "Telephone:",
+     "answers": [
+      "077876345"
+     ]
+    },
+    {
+     "type": "short",
+     "text": "Date of arrival:",
+     "answers": [
+      "27 february",
+      "27th february",
+      "february 27",
+      "february 27th"
+     ]
+    },
+    {
+     "type": "gap",
+     "text": "Address: 235 {akendale} Road, East sea",
+     "bank": false
+    },
+    {
+     "type": "gap",
+     "text": "The total value of insurance: $ {3450}",
+     "bank": false
+    },
+    {
+     "type": "section",
+     "text": "Missing items:\n\n– lamps and chairs (not expensive)",
+     "passage": ""
+    },
+    {
+     "type": "gap",
+     "text": "– furniture and {books}",
+     "bank": false
+    },
+    {
+     "type": "gap",
+     "text": "– a rocking horse, some {paintings} and fruit bowls",
+     "bank": false
+    },
+    {
+     "type": "section",
+     "text": "Items ordered: – a clock",
+     "passage": ""
+    },
+    {
+     "type": "gap",
+     "text": "– a {mirror}",
+     "bank": false
+    },
+    {
+     "type": "gap",
+     "text": "Damaged items: – the {desk} needs to be replaced",
+     "bank": false
+    },
+    {
+     "type": "gap",
+     "text": "– a {leg} of one of the dining chairs is split",
+     "bank": false
+    },
+    {
+     "type": "gap",
+     "text": "– four {plates} were broken",
+     "bank": false
+    },
+    {
+     "type": "section",
+     "text": "Part 2\n\nListen and answer questions 11–20.\n\nQuestions 11-16\n\nChoose the correct letter, A, B or C.",
+     "passage": "",
+     "audioUrl": "https://ieltstrainingonline.com/wp-content/uploads/2021/07/2019-IELTS-Listening-Actual-Test-04-Section2.mp3?_=2"
+    },
+    {
+     "type": "mcq",
+     "text": "What was Jill surprised to find?",
+     "options": [
+      "Some work to reduce the water usage to her house could be done soon.",
+      "The house was poorly insulated.",
+      "She could get financial help."
+     ],
+     "answer": [
+      0
+     ]
+    },
+    {
+     "type": "mcq",
+     "text": "What does Jill say every family can do straight away?",
+     "options": [
+      "Use energy-saving bulbs.",
+      "Turn down the thermostat.",
+      "Turn off their appliances completely."
+     ],
+     "answer": [
+      2
+     ]
+    },
+    {
+     "type": "mcq",
+     "text": "What pleased Jill about the energy provider?",
+     "options": [
+      "reduction in price for prompt payment",
+      "allowing customers to pay online",
+      "having a reduction in price of the energy-saving sources"
+     ],
+     "answer": [
+      1
+     ]
+    },
+    {
+     "type": "mcq",
+     "text": "What difficulty does Jill have with the energy meters?",
+     "options": [
+      "They are difficult to access.",
+      "The figures are hard to read accurately.",
+      "She can't tell whether they're for electricity or for gas."
+     ],
+     "answer": [
+      1
+     ]
+    },
+    {
+     "type": "mcq",
+     "text": "What kind of energy-saving method is Jill going to take next?",
+     "options": [
+      "Use an energy-saving boiler.",
+      "Have the walls checked for their insulation level.",
+      "Install double-glazed windows."
+     ],
+     "answer": [
+      2
+     ]
+    },
+    {
+     "type": "mcq",
+     "text": "Why is Jill doubtful about renewable energy?",
+     "options": [
+      "She thinks it's unsuitable for her house.",
+      "She doesn't understand the technical details.",
+      "She believes it's too expensive."
+     ],
+     "answer": [
+      0
+     ]
+    },
+    {
+     "type": "section",
+     "text": "Questions 17-18 Choose TWO letters, A-E.",
+     "passage": ""
+    },
+    {
+     "type": "mcq",
+     "text": "Which TWO water-saving tips does Jill recommend?",
+     "options": [
+      "use more showers than baths",
+      "keep the washing machine full before using it",
+      "boil only as much water as you need",
+      "turn off the taps while you are brushing your teeth",
+      "repair leaking taps"
+     ],
+     "answer": [
+      2,
+      4
+     ]
+    },
+    {
+     "type": "section",
+     "text": "Questions 19-20 Choose TWO letters, A-E.",
+     "passage": ""
+    },
+    {
+     "type": "mcq",
+     "text": "Which TWO topics do people most frequently ask about?",
+     "options": [
+      "the ideal temperature setting on the thermostat",
+      "whether to leave the light on or not",
+      "whether to use a computer or laptop to watch movies",
+      "how to work out the operating cost of appliances",
+      "whether solar panels only work on sunny days"
+     ],
+     "answer": [
+      0,
+      2
+     ]
+    },
+    {
+     "type": "section",
+     "text": "Part 3\n\nListen and answer questions 21–30.\n\nQuestions 21-25\n\nChoose the correct letter, A, B or C.",
+     "passage": "",
+     "audioUrl": "https://ieltstrainingonline.com/wp-content/uploads/2021/07/2019-IELTS-Listening-Actual-Test-05-Section3.mp3?_=3"
+    },
+    {
+     "type": "mcq",
+     "text": "Why did James choose to work in the bakery?",
+     "options": [
+      "Because it's close to his home.",
+      "Because it has a good reputation in the subject area.",
+      "Because it's a part of a chain."
+     ],
+     "answer": [
+      1
+     ]
+    },
+    {
+     "type": "mcq",
+     "text": "What was James surprised at in his studies?",
+     "options": [
+      "He finds the theoretical courses easy.",
+      "He can finish the theoretical courses.",
+      "He finds the theoretical work interesting."
+     ],
+     "answer": [
+      1
+     ]
+    },
+    {
+     "type": "mcq",
+     "text": "How is James' course assessed in the first term?",
+     "options": [
+      "The marks are given by students to each other.",
+      "Self-assessment.",
+      "It is up to the practical experience."
+     ],
+     "answer": [
+      0
+     ]
+    },
+    {
+     "type": "mcq",
+     "text": "Why has Kate enquired about the English language course?",
+     "options": [
+      "She wants to become an artist.",
+      "It is her first language.",
+      "She plans to curate in a gallery."
+     ],
+     "answer": [
+      2
+     ]
+    },
+    {
+     "type": "mcq",
+     "text": "What else did Kate need to get before going to the college?",
+     "options": [
+      "starting date of the course",
+      "an offer with scholarships",
+      "a catalogue of modules"
+     ],
+     "answer": [
+      2
+     ]
+    },
+    {
+     "type": "section",
+     "text": "Questions 26-30 What statement applies to each of the following courses?\n\nChoose FIVE answers from the box and choose the correct letter for questions 26-30.",
+     "passage": ""
+    },
+    {
+     "type": "match",
+     "text": "",
+     "pairs": [
+      {
+       "l": "History of Art",
+       "r": "Many outside speakers will give a talk."
+      },
+      {
+       "l": "Sculpture",
+       "r": "Expensive materials need to be bought."
+      },
+      {
+       "l": "Digital Painting",
+       "r": "People stay at the studio where the course is taken."
+      },
+      {
+       "l": "Art Theory",
+       "r": "Students do their own research."
+      },
+      {
+       "l": "Photography",
+       "r": "Students need to spend a lot of money on a camera with a good display."
+      }
+     ],
+     "extra": [
+      "There are a lot of background readings.",
+      "It's the most difficult course."
+     ]
+    },
+    {
+     "type": "section",
+     "text": "Part 4\n\nListen and answer questions 31–40.\n\nQuestions 31-40 Complete the notes below.\n\nWrite NO MORE THAN TWO WORDS for each answer.\n\nBirds in New Zealand\n\nFacts",
+     "passage": "",
+     "audioUrl": "https://ieltstrainingonline.com/wp-content/uploads/2021/07/2019-IELTS-Listening-Actual-Test-05-Section4.mp3?_=4"
+    },
+    {
+     "type": "gap",
+     "text": "• The birds often build their nests along the coastline or next to the {river}.",
+     "bank": false
+    },
+    {
+     "type": "gap",
+     "text": "• In 1984. researchers found that there were {3 pairs} of this kind of bird left.",
+     "bank": false
+    },
+    {
+     "type": "gap",
+     "text": "• It is difficult to {estimate} the number of birds accurately.",
+     "bank": false
+    },
+    {
+     "type": "section",
+     "text": "Influencing factors",
+     "passage": ""
+    },
+    {
+     "type": "gap",
+     "text": "• Human activities, such as {farming} and building homes threaten the bird population.",
+     "bank": false
+    },
+    {
+     "type": "gap",
+     "text": "• The birds are influenced by many species which can eat their {eggs}.",
+     "bank": false
+    },
+    {
+     "type": "gap",
+     "text": "• Natural disasters like {storms} can also reduce the population of the birds.",
+     "bank": false
+    },
+    {
+     "type": "section",
+     "text": "Ways of protection",
+     "passage": ""
+    },
+    {
+     "type": "gap",
+     "text": "• The zoo should hire a {guard} to keep the birds from being poached",
+     "bank": false
+    },
+    {
+     "type": "gap",
+     "text": "• The organizer could build {fence} to prevent the public from getting closer.",
+     "bank": false
+    },
+    {
+     "type": "gap",
+     "text": "• People should make more of an effort to protect {wild} birds.",
+     "bank": false
+    },
+    {
+     "type": "gap",
+     "text": "• Through the {media}, people will learn more about bird protection.",
+     "bank": false
+    }
+   ]
+  }
+ ]
+}
